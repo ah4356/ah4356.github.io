@@ -717,7 +717,7 @@ header{
 }
 @media screen and (max-width: 950px) {
     .hero{
-        background: url(../src/Untitled-design-41.png) no-repeat ;
+        
         background-size: cover;
         background-attachment: fixed;
         
